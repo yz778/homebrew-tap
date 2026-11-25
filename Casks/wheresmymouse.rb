@@ -1,6 +1,6 @@
 cask "wheresmymouse" do
-  version "2.1"
-  sha256 "9189640f020b1777ece89a64324b1ce22056cd31a7dbad8a61999bc1390aa361"
+  version "2.1.1"
+  sha256 "d109ad3e13ec42f722556da70146f69da41464cd46fa6e76063ff52e5a270812"
 
   url "https://github.com/yz778/wheresmymouse/releases/download/v#{version}/wheresmymouse-#{version}-macos-universal.zip"
   name "Where's My Mouse"
